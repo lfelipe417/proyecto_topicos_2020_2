@@ -19,6 +19,7 @@ public class Ing_sw_2020_2 {
         System.out.print("version WMRC");
         System.out.print("VERSION 1.1");
         System.out.print("Actualizar");
+        System.out.print("Version 1.1 Modificada desde Github");
         
     }
     
